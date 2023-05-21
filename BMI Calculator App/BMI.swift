@@ -1,11 +1,4 @@
-//
-//  BMI.swift
-//  BMI Calculator
-//
-//  Created by intern on 2/20/23.
-//  Copyright © 2023 Angela Yu. All rights reserved.
-//
-
+// Created by Deric San Andres
 import UIKit
 
 struct BMI {

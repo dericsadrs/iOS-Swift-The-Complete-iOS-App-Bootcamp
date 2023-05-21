@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  I Am Poor
 //
-//  Created by intern on 1/31/23.
+//  Created by Deric San Andres 1/31/23.
 //
 
 import UIKit
